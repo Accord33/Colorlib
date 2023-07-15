@@ -1,8 +1,0 @@
-README.md
-setup.py
-Colorlib/Color.py
-Colorlib/__init__.py
-Colorlib.egg-info/PKG-INFO
-Colorlib.egg-info/SOURCES.txt
-Colorlib.egg-info/dependency_links.txt
-Colorlib.egg-info/top_level.txt
