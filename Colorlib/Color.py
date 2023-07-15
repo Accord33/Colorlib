@@ -1,4 +1,4 @@
-class FrontGround:
+class fg:
     def BLACK(mes):
         return '\033[30m'+mes+'\033[0m'
     def RED(mes):
@@ -20,7 +20,7 @@ class FrontGround:
     def UNDERLINE(mes):
         return '\033[4m'+mes+'\033[0m'
     
-class BackGround:
+class bg:
     def BLACK(mes):
         return '\033[40m'+mes+'\033[0m'
     def RED(mes):
